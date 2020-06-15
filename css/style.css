@@ -1,0 +1,165 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+
+header{
+    width: 100%;
+    background-color:#E8E8E8;
+    height: 100px;
+}
+
+header h1{
+    text-align: center;
+    color:blue;
+    font-size: 30px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding: 30px 0px 0px 0px;
+}
+
+
+
+
+section{
+    width: 100%;
+    height: 500px;
+    background-color: #bb00cb;
+    margin-top: 10px;
+
+
+
+}
+
+nav{
+    width: 20%;
+    background-color: turquoise;
+    height: 96%;
+    float: left;
+    margin: 10px 5px 10px 10px;
+   
+}
+
+.two h1{
+    width: 96%;
+    height: 200px;
+    background-color: #0066ff;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 7px;
+}
+
+.two h2{
+    width: 96%;
+    height: 100px;
+    background-color: #0066ff;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 7px;
+}
+.two h3{
+    width: 96%;
+    height: 150px;
+    background-color: #0066ff;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 7px;
+}
+
+aside{
+    width: 26%;
+    height: 96%;
+    background-color:turquoise;
+    float: right;
+    margin: 10px;
+
+
+
+    
+}
+
+.part1 h1{
+    width: 96%;
+    height: 220px;
+    background-color: #0066ff;
+    color: black;
+    margin: 10px;
+
+}
+
+.part1 h2{
+    width: 96%;
+    height: 230px;
+    background-color: #0066ff;
+    color: black;
+    margin: 10px;
+
+}
+
+article{
+    width: 50%;
+    background-color: turquoise;
+    height: 96%;
+    float: left;
+    margin: 10px 5px;
+
+
+
+}
+.three h1{
+    background-color: #0066ff;
+    width: 97.6%;
+    height: 120px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+
+
+    
+}
+.three h2{
+    background-color:#0066ff;
+    width: 97.6%;
+    height: 180px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+
+
+    
+}
+
+.three h3{
+    background-color:#0066ff;
+    width: 97.6%;
+    height: 140px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+
+
+    
+}
+
+footer{
+    width: 100%;
+    height: 120px;
+    background-image: linear-gradient(to right bottom, #2d01ff, #bb00cb, #ed0096, #ff0067, #ff0043);
+    margin-top: 10px;
+}
+
+footer h1{
+    color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 40px;
+}
